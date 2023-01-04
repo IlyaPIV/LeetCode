@@ -1,8 +1,6 @@
 package problems.easy.p1480;
 
-import java.util.Arrays;
-
-public class Solution {
+public class MySolution {
     public int[] runningSum(int[] nums) {
         int sum = 0;
         int[] res = new int[nums.length];
