@@ -1,4 +1,4 @@
-package problems.easy.p876;
+package problems.easy.p0876;
 
 
 

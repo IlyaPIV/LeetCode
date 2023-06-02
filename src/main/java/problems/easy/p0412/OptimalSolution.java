@@ -1,4 +1,4 @@
-package problems.easy.p412;
+package problems.easy.p0412;
 
 import java.util.ArrayList;
 import java.util.List;

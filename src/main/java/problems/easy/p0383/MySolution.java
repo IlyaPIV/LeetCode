@@ -1,8 +1,4 @@
-package problems.easy.p383;
-
-import java.nio.charset.StandardCharsets;
-import java.util.Arrays;
-import java.util.Collections;
+package problems.easy.p0383;
 
 public class MySolution {
     public boolean canConstruct(String ransomNote, String magazine) {

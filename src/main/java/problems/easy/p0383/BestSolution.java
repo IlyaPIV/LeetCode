@@ -1,4 +1,4 @@
-package problems.easy.p383;
+package problems.easy.p0383;
 
 public class BestSolution {
     public boolean canConstruct(String ransomNote, String magazine) {
