@@ -1,4 +1,4 @@
-package problems.medium.p2;
+package problems.medium.p0002;
 
  public class ListNode {
       int val;
