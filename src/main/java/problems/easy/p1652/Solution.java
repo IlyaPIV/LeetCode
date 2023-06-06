@@ -44,8 +44,7 @@ public class Solution {
     public static int[] decrypt(int[] code, int k) {
 
         if (k == 0) {
-            Arrays.fill(code, 0);
-            return code;
+            return new int[code.length];
         }
 
         int[] res = new int[code.length];
@@ -62,6 +61,7 @@ public class Solution {
                 res[i] += code[pos];
             }
         }
+
         return res;
     }
 
